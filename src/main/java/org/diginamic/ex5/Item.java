@@ -1,4 +1,4 @@
-package ex5;
+package org.diginamic.ex5;
 
 public class Item {
 
